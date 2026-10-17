@@ -23,7 +23,7 @@ on:
         type: string
       decrypted_youtube_url:
         description: "Direct URL of the decrypted YouTube IPA"
-        default: ""
+        default: "https://seafile.sktun.net/seafhttp/f/b241b7d93b8e4306a070/?op=view"
         required: true
         type: string
       bundle_id:
